@@ -1,0 +1,84 @@
+
+html
+*{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 0%;
+}
+
+
+#primeiro {
+    border: 1px solid deeppink;
+    margin: 40px;
+
+}
+.segundo {
+    border: 10px solid orangered;
+
+
+
+}
+
+body{ color: deeppink;}
+        li{
+            text-decoration: underline;
+        }
+        ul {
+            border: 5px solid greenyellow;}
+
+
+/*tags*/
+ body{text-align: center;
+}
+
+
+#login { background-color: deeppink;
+color: yellowgreen;
+}
+#registre{
+    background-color: deeppink;
+    color: yellowgreen;
+}
+.copy{
+    font-size:8px;
+
+}
+html
+link body{ color: deeppink;}
+li{
+    text-decoration: underline;
+}
+ul {
+    border: 5px solid greenyellow;}
+
+
+/*tags*/
+body{text-align: center;
+}
+.container{
+    max-width: 1100px;
+
+
+
+}
+p{
+    text-align: center;
+}
+.lista_footer{
+    list-style: none;
+}
+
+
+#login { background-color: deeppink;
+color: yellowgreen;
+}
+#registre{
+background-color: deeppink;
+color: yellowgreen;
+}
+.copy{
+font-size:8px;
+
+}
+
