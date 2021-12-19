@@ -2,6 +2,8 @@
 
 Exercícios iniciais. Aprendendo a construir sites apenas com HTML e CSS 
 
+![image](https://user-images.githubusercontent.com/94201226/146693905-d046e25e-1f62-4e26-b817-75471e2fa45d.png)
+
 
 ![image](https://user-images.githubusercontent.com/94201226/146692792-9c1c43bc-d1a0-4f08-a0b7-f54825df9d41.png)
 
