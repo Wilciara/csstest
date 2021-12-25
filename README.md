@@ -23,6 +23,11 @@ usando  HTMLe CSS
 
 ![image](https://user-images.githubusercontent.com/94201226/147395072-045192cd-9b29-45b6-8e18-ec3e9d5bb128.png)
 
+![image](https://user-images.githubusercontent.com/94201226/147395085-cc94adc4-9790-4123-a015-47130b65ddcf.png)
+![image](https://user-images.githubusercontent.com/94201226/147395088-d74bc8ab-9b06-4bab-860d-d8f02fb40fd3.png)
+
+
+
 
 
 
